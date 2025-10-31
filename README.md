@@ -36,8 +36,10 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 
 ![spore](https://baltaio.blob.core.windows.net/static/images/v4/challenges/caca-aos-bugs-2025/rewards/spore/image.png)
 ![baby-demo-dog](https://baltaio.blob.core.windows.net/static/images/v4/challenges/caca-aos-bugs-2025/rewards/baby-demo-dog/image.png)
+![spider-monster](https://baltaio.blob.core.windows.net/static/images/v4/challenges/caca-aos-bugs-2025/rewards/spider-monster/image.png)
 
 ### Meus Projetos
 
 - [01 - Spore](https://github.com/MarceloHadad/balta-desafio-caca-aos-bugs-2025_1-spore)
 - [02 - Baby Demo Dog](https://github.com/MarceloHadad/balta-desafio-caca-aos-bugs-2025_2-baby-demo-dog)
+- [03 - Spider Monster](https://github.com/MarceloHadad/balta-desafio-caca-aos-bugs-2025_3-spider-monster)
