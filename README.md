@@ -39,6 +39,7 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 ![spider-monster](https://baltaio.blob.core.windows.net/static/images/v4/challenges/caca-aos-bugs-2025/rewards/spider-monster/image.png)
 ![demo-bat](https://baltaio.blob.core.windows.net/static/images/v4/challenges/caca-aos-bugs-2025/rewards/demo-bat/image.png)
 ![demo-dog](https://baltaio.blob.core.windows.net/static/images/v4/challenges/caca-aos-bugs-2025/rewards/demo-dog/image.png)
+![demogorgon](https://baltaio.blob.core.windows.net/static/images/v4/challenges/caca-aos-bugs-2025/rewards/demogorgon/image.png)
 
 ### Meus Projetos
 
@@ -47,3 +48,4 @@ O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias
 - [03 - Spider Monster](https://github.com/MarceloHadad/balta-desafio-caca-aos-bugs-2025_3-spider-monster)
 - [04 - Demo Bat](https://github.com/MarceloHadad/balta-desafio-caca-aos-bugs-2025_4-demo-bat)
 - [05 - Demo Dog](https://github.com/MarceloHadad/balta-desafio-caca-aos-bugs-2025_5-demo-dog)
+- [06 - Demogorgon](https://github.com/MarceloHadad/balta-desafio-caca-aos-bugs-2025_6-demogorgon)
